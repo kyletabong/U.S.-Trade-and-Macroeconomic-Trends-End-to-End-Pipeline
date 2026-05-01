@@ -48,6 +48,7 @@ pip install fredapi wbgapi pandas scipy scikit-learn matplotlib
 ```
 project/
 ├── README.md
+├── Final Report.pdf
 ├── manuscript.qmd
 ├── manuscript.html
 ├── data_ingestion_and_cleaning.ipynb
